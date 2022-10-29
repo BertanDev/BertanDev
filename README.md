@@ -1,7 +1,7 @@
 ## Hello! I'm João Vitor Bertan
 
 <div align="center" display="flex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BertanDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="600px" src="https://github-readme-stats.vercel.app/api?username=BertanDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BertanDev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
